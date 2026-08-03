@@ -16,6 +16,9 @@ faiss_db/
 # Audio Cache
 audio_cache/
 
+# FAISS Index
+data/faiss_index/
+
 # VS Code
 .vscode/
 
